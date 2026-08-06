@@ -108,7 +108,7 @@ Customer-Churn-Analysis-EDA/
 ├── images/
 │   ├── churn_distribution.png
 │   ├── contract_vs_churn.png
-│   ├── payment_method_vs_churn.png
+│   ├── tota_charges.png
 │   ├── monthly_charges_distribution.png
 │   └── correlation_heatmap.png
 └── dataset/

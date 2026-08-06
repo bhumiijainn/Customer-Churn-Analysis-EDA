@@ -73,29 +73,6 @@ The project includes:
 
 ---
 
-## 📸 Project Screenshots
-
-### Customer Churn Distribution
-
-![Customer Churn Distribution](images/churn_distribution.png)
-
-### Contract Type vs Customer Churn
-
-![Contract Type](images/contract_vs_churn.png)
-
-### Payment Method Analysis
-
-![Payment Method](images/payment_method_vs_churn.png)
-
-### Monthly Charges Distribution
-
-![Monthly Charges](images/monthly_charges_distribution.png)
-
-### Correlation Heatmap
-
-![Heatmap](images/correlation_heatmap.png)
-
----
 
 ## 💡 Key Insights
 
